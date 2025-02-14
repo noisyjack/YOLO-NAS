@@ -6,6 +6,6 @@ images:
   train: images
   val: images
 labels:
-  test: labels
-  train: labels
-  val: labels
+  test: 
+  train: 
+  val: 
