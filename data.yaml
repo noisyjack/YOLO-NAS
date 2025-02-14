@@ -6,6 +6,6 @@ images:
   train: images
   val: images
 labels:
-  test: results.json
-  train: results.json
-  val: results.json
+  test: result.json
+  train: result.json
+  val: result.json
